@@ -1,0 +1,27 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.main{
+    display: table;
+    border: 2px solid red;
+    margin: auto;
+    background: white;
+    position: relative;
+    border-radius: 10px;
+    left: 150px;
+    top: 90px;
+}
+.light{
+    width: 90px;
+    height: 90px;
+    margin: 10px;
+    border-radius: 50%;
+    background-color: black;
+    text-align: center;
+    font-size: 35px;
+    /* padding: 20px 8px 0px 8px; */
+    line-height: 85px;
+    font-family: sans-serif;
+
+}
